@@ -1,0 +1,6 @@
+config.ini
+screenshots/
+geckodriver.log
+.idea/
+venv/
+vineyards_coordinates.csv
